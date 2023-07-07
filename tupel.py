@@ -44,8 +44,8 @@ print("program studi 1:\nNama prodi Pertama: %s, ID: %d\nProgram Studi Kedua:\nN
 print("---------------------------------------")
 print("dosen pengampu...")
 print("-----------------------------------")
-print("Dosen Informatika: %s, id: %d%"%(dosen_1[1],dosen_2[0]))
-print("Dosen Sistem informasi: %s, id: %d"%(dosen_2[1],dosen_2[0]))
+print("Dosen informatika: %s, ID: %d"%(dosen_1[1],dosen_2[0]))
+print("Dosen Sistem informasi: %s, Id: %d"%(dosen_2[1],dosen_2[0]))
 print(type(identitas),type(prodi_1),type(prodi_2),type(prodi_1),type(prodi_2))
 
 print()
